@@ -1,0 +1,3 @@
+# Build output — never commit the built app bundle
+*.app
+.DS_Store
